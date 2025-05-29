@@ -1,26 +1,21 @@
-<h1 align="center">E-Commerce Store</h1>
+<h1 align="center">E-Commerce Application </h1>
 
+About This Project:
 
-Most Valuable Product Features:
-
--   🚀 Project Setup
--   🗄️ MongoDB & Redis Integration
--   💳 Stripe Payment Setup
--   🔐 Robust Authentication System
--   🔑 JWT with Refresh/Access Tokens
--   📝 User Signup & Login
--   🛒 E-Commerce Core
--   📦 Product & Category Management
--   🛍️ Shopping Cart Functionality
--   💰 Checkout with Stripe
--   🏷️ Coupon Code System
--   👑 Admin Dashboard
--   📊 Sales Analytics
--   🎨 Design with Tailwind
--   🛒 Cart & Checkout Process
--   🔒 Security
--   🛡️ Data Protection
--   🚀Caching with Redis
+-   MongoDB & Redis Integration
+-   Stripe Payment Integration
+-   Robust Authentication System
+-   JWT with Refresh/Access Tokens
+-   User Signup & Login
+-   Product & Category Management
+-   Shopping Cart Functionality
+-   Checkout with Stripe
+-   Coupon Code System
+-   Admin Dashboard
+-   Sales Analytics
+-   Design using Tailwind
+-   Cart & Checkout
+-   Caching with Redis
 
 ### Setup .env file
 
