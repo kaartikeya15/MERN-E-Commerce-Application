@@ -1,4 +1,4 @@
-<h1 align="center">E-Commerce Application </h1>
+<h1 align="center">MERN E-Commerce Application </h1>
 
 About This Project:
 
